@@ -1,6 +1,6 @@
 // Status Heróis
 let heroi = "Poucas Trancas"
-let pontosXP = 958
+let pontosXP = 7512
 
 // Pontos de XP do Herói
 let nivelHeroi;
