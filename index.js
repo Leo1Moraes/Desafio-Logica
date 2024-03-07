@@ -1,5 +1,5 @@
 // Status Heróis
-let Heroi = "Thor Deus do Trovão"
+let heroi = "Poucas Trancas"
 let pontosXP = 958
 
 // Pontos de XP do Herói
@@ -23,4 +23,4 @@ if (pontosXP < 1000) {
     nivelHeroi = "Radiante"
 }
 
-console.log("O Herói de nome " + heroi , "está no nível " + nivelHeroi)
+console.log("O Herói de nome " + heroi + ", está no nível " + nivelHeroi + "!")
